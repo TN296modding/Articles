@@ -12,9 +12,10 @@ h3 {
 
 authname {
   fill: #ff0000;
-  padding-top: -10px;
-  padding-bottom: 10px;
+  padding-top: -30px;
+  padding-bottom: 30px;
   text-align: left;
+  margin-left: 100px
 }
 
 article {
