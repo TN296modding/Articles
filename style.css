@@ -20,6 +20,12 @@ authname {
   margin-left: 100px;
 }
 
+authname::before {
+  content: "von Jagow - "
+  font-weight: bold;
+  font-style: italic; 
+}
+
 article {
   max-width: 500px;
   margin-left: auto;
